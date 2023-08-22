@@ -265,9 +265,9 @@
       const daftarButton = document.getElementById("daftarButton");
 
       if (nomorHPTrimmed.length === 13) {
-        daftarButton.disabled = false;
+        //daftarButton.disabled = false;
       } else {
-        daftarButton.disabled = true;
+        //daftarButton.disabled = true;
       }
 
       this.value = nomorHPTrimmed;
