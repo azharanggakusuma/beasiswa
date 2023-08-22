@@ -12,10 +12,10 @@ Passoword: **admin**<br>
 Berikut adalah screenshot project saya:
 
 ### Tampilan dekstop
-![screenshot](assets/img/dekstop.png) 
+![screenshot](screenshot/dekstop.png) 
 
 ### Tampilan mobile
-![screenshot](assets/img/mobile.png)
+![screenshot](screenshot/mobile.png)
 
 # Unit Kompetensi yang diperlukan
 1. Mengimplementasikan User Interface
