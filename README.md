@@ -1,7 +1,7 @@
 # Penjelasan singkat tentang website ini
 
 ## Tentang project
-Pada project ini, saya membuat website Pendaftaran Beasiswa sebagai project dari Uji Kompetensi BNSP Junior Web Developer yang dilaksanakan oleh digitalen kominfo yang bekerjasama dengan LSP Informatika. Saya membuat website ini menggunakan HTML, CSS, JS, PHP dan Bootstrap. Website ini juga sudah responsif❗️
+Pada project ini, saya membuat website Pendaftaran Beasiswa sebagai project dari Uji Kompetensi BNSP Junior Web Developer yang dilaksanakan oleh digitalent kominfo yang bekerjasama dengan LSP Informatika. Saya membuat website ini menggunakan HTML, CSS, JS, PHP dan Bootstrap. Website ini juga sudah responsif❗️
 
 ## Login admin<br>
 ### http://localhost/namafolder/admin<br>
